@@ -1,23 +1,26 @@
 # Code de l'artisanat  
-Version Consolidée au 1954-06-18
+Version Consolidée au 1955-05-22
 ## Contenu: 
-  - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 1 à 4)](#1)
-  - [Titre II : Des chambres de métiers. (art. 9 à 29)](#2)
-    - [Chapitre I : Institution et organisation. (art. 9 à 10)](#3)
-    - [Chapitre IV : Ressources. (art. 25 à 27)](#4)
-    - [Chapitre V : Contrôle financier. (art. 29)](#5)
-  - [Titre II : Des chambres de métiers et de l'artisanat (art. 22)](#6)
-    - [Chapitre II : Fonctionnement. (art. 22)](#7)
-  - [Titre IV : De l'apprentissage artisanal. (art. 37 à 52)](#8)
-  - [Titre V : Du crédit aux artisans. (art. 53 à 72)](#9)
-    - [Chapitre Ier : Crédit artisanal individuel. (art. 57 à 63)](#10)
-    - [Chapitre II : Crédit aux coopératives. (art. 64 à 71)](#11)
-    - [Chapitre III : Crédit spécial aux artisans ruraux. (art. 72)](#12)
-  - [Titre VI : Des adjudications et des marchés (art. 75)](#13)
-    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 75)](#14)
-  - [Titre VII : De l'assistance aux artisans sans travail. (art. 78 à 80)](#15)
-  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#16)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#17)
+  - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 1 à 4 bis)](#1)
+  - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
+    - [Chapitre I : Institution et organisation. (art. 6 à 17)](#3)
+    - [Chapitre II : Fonctionnement. (art. 18)](#4)
+    - [Chapitre IV : Ressources. (art. 25 à 27)](#5)
+    - [Chapitre V : Contrôle financier. (art. 29)](#6)
+  - [Titre II : Des chambres de métiers et de l'artisanat (art. 22 à 24)](#7)
+    - [Chapitre II : Fonctionnement. (art. 22)](#8)
+    - [Chapitre III : Attributions. (art. 24)](#9)
+  - [Titre III : Du registre des métiers. (art. 30 à 35 bis)](#10)
+  - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#11)
+  - [Titre V : Du crédit aux artisans. (art. 53 à 72)](#12)
+    - [Chapitre Ier : Crédit artisanal individuel. (art. 57 à 63)](#13)
+    - [Chapitre II : Crédit aux coopératives. (art. 64 à 71)](#14)
+    - [Chapitre III : Crédit spécial aux artisans ruraux. (art. 72)](#15)
+  - [Titre VI : Des adjudications et des marchés (art. 74 à 75)](#16)
+    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#17)
+  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#18)
+  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#19)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#20)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 1
@@ -153,9 +156,83 @@ _Cité par_:
   - Code de l'artisanat - art. 21 (M)
 
 
+###### Article 4 bis
+
+Le compagnon est l'ouvrier qualifié travaillant dans une entreprise artisanale et possédant une qualification professionnelle
+attestée soit par le certificat de compagnon, soit par un apprentissage préalable ou un exercice prolongé du métier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°55-656 1955-05-20 art. 5 JORF 22 mai 1955
+
+_Cité par_:
+
+  - Décret n°77-892 du 4 août 1977 - art. 1 (Ab)
+
+
 # Titre II : Des chambres de métiers.<a id=2></a>
 
+###### Article 5
+
+Les chambres de métiers sont, auprès des pouvoirs publics, les organes représentatifs des intérêts généraux de l'artisanat de
+leur circonscription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Modifié par_:
+
+  - Décret n°55-657 1955-05-20 art. 1 JORF 22 mai 1955
+
+_Cité par_:
+
+  - Code de l'artisanat - art. 81 bis (M)
+  - Code de l'artisanat - art. 82-1 (Ab)
+
+_Créé par_:
+
+  - Décret n°55-656 1955-05-20 art. 5 JORF 22 mai 1955
+
+
 ## Chapitre I : Institution et organisation.<a id=3></a>
+
+###### Article 6
+
+Les chambres de métiers sont instituées par décrets pris sur le rapport du ministre chargé de l'artisanat, du ministre du
+travail et du ministre chargé de l'enseignement technique.
+
+Elles sont des établissements publics.
+
+Il peut être créé une ou plusieurs chambres de métiers par département. Une chambre de métiers peut se diviser en autant de
+sections qu'elle le juge utile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°55-656 1955-05-20 art. 5 JORF 22 mai 1955
+
+_Modifié par_:
+
+  - Décret n°55-657 1955-05-20 art. 2 JORF 22 mai 1955
+
+_Cité par_:
+
+  - Décret n°2009-444 du 20 avril 2009 (V)
+
 
 ###### Article 9
 
@@ -208,7 +285,138 @@ _Abrogé par_:
   - Décret n°68-47 du 13 janvier 1968 - art. 39, v. init.
 
 
-## Chapitre IV : Ressources.<a id=4></a>
+###### Article 15
+
+Sont déclarés démissionnaires d'office par le préfet, après avis de la chambre de métiers, les membres des chambres de
+métiers qui cessent au cours de leur mandat de répondre aux conditions d'éligibilité prévues par l'article 11 du présent
+code, ceux qui ont perdu la qualité d'artisan ou de compagnon au titre de laquelle ils ont été élus et ceux qui ne relèvent
+plus de la catégorie à laquelle ils appartenaient au moment de leur élection.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+
+_Cite_:
+
+  - Code de l'artisanat - art. 11 (Ab)
+
+_Cité par_:
+
+  - Code de l'artisanat - art. 81 bis (M)
+  - Code de l'artisanat - art. 82-1 (Ab)
+
+
+###### Article 16
+
+Il est pourvu au remplacement des membres décédés ou démissionnaires lors du renouvellement partiel le plus prochain.
+
+Toutefois, lorsqu'une chambre de métiers se trouve, par l'effet de vacances survenues pour une cause quelconque, réduite aux
+trois quarts de ses membres, il est, dans le délai de deux mois à dater de la dernière vacance, procédé à des élections
+complémentaires. Dans l'année qui précède le renouvellement partiel, les élections complémentaires sont reportées à l'époque
+de ce renouvellement, à moins que la chambre n'ait perdu plus de la moitié de ses membres.
+
+Les membres nommés dans une élection complémentaire ne demeurent en fonction que pendant la durée du mandat qui avait été
+confié à leurs prédécesseurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°99-433 1999-05-27 art. 36 (modalités d'application - dispositions transitoires)
+
+_Abrogé par_:
+
+  - Décret n°99-433 1999-05-27 art. 37 JORF 29 mai 1999
+
+_Cité par_:
+
+  - Décret n°99-433 du 27 mai 1999 - art. 37 (Ab)
+
+
+###### Article 17
+
+Les chambres de métiers peuvent être supprimées par décret, pris sur le rapport du ministre chargé de l'artisanat, du
+ministre du travail et du ministre chargé de l'enseignement technique. Elles peuvent être dissoutes par décret pris sur le
+rapport du ministre chargé de l'artisanat.
+
+En cas de dissolution, une commission composée de trois à neuf membres artisans désignés par arrêté du ministre chargé de
+l'artisanat administre provisoirement la chambre de métiers dissoute dans l'attente de nouvelles élections. Les élections
+pour le remplacement des membres d'une chambre de métiers dissoute doivent avoir lieu dans un délai de deux mois à partir de
+la publication du décret de dissolution. Toutefois, si le décret de dissolution intervient en période de révision des listes
+électorales des chambres de métiers ou si une révision spéciale a été prescrite à la suite de la dissolution, le délai fixé
+doit être compté à partir du jour où la révision des listes électorales a pris fin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+
+_Cité par_:
+
+  - Décret n°99-433 du 27 mai 1999 - art. 33 (V)
+  - Décret n°2009-444 du 20 avril 2009 (V)
+  - Code de l'artisanat - art. 81 bis (M)
+
+
+## Chapitre II : Fonctionnement.<a id=4></a>
+
+###### Article 18
+
+Les fonctions des membres des chambres de métiers sont gratuites. Toutefois, peuvent être prévus l'attribution de frais de
+mandat et le remboursement des frais de déplacement et de représentation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+
+_Cité par_:
+
+  - Arrêté du 12 mai 2011 - art. 1 (V)
+  - Code de la sécurité sociale. - art. D311-1 (V)
+
+
+## Chapitre IV : Ressources.<a id=5></a>
 
 ###### Article 25
 
@@ -284,7 +492,7 @@ _Cité par_:
   - Décret n°68-47 du 13 janvier 1968 - art. 39 (Ab)
 
 
-## Chapitre V : Contrôle financier.<a id=5></a>
+## Chapitre V : Contrôle financier.<a id=6></a>
 
 ###### Article 29
 
@@ -303,9 +511,9 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre II : Des chambres de métiers et de l'artisanat<a id=6></a>
+# Titre II : Des chambres de métiers et de l'artisanat<a id=7></a>
 
-## Chapitre II : Fonctionnement.<a id=7></a>
+## Chapitre II : Fonctionnement.<a id=8></a>
 
 ###### Article 22
 
@@ -365,7 +573,228 @@ _Abrogé par_:
   - Décret n°73-358 du 26 mars 1973, v. init.
 
 
-# Titre IV : De l'apprentissage artisanal.<a id=8></a>
+## Chapitre III : Attributions.<a id=9></a>
+
+###### Article 24
+
+(texte non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°66-137 1966-03-07 art. 11 JORF 11 mars 1966
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°66-137 du 7 mars 1966 - art. 11 (M)
+
+_Cité par_:
+
+  - Décret n°66-137 du 7 mars 1966 - art. 11 (V)
+
+
+# Titre III : Du registre des métiers.<a id=10></a>
+
+###### Article 30
+
+(Texte abrogé, non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
+
+_Cité par_:
+
+  - Décret n°2017-343 du 16 mars 2017 - art. 40 (V)
+
+
+###### Article 31
+
+(Texte abrogé, non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
+
+
+###### Article 32
+
+(Texte abrogé, non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
+
+
+###### Article 33
+
+(Texte abrogé, non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
+
+
+###### Article 34
+
+(Texte abrogé, non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
+
+
+###### Article 35
+
+(Texte abrogé, non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
+
+
+###### Article 35 bis
+
+(Texte abrogé, non reproduit).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 du 16 juillet 1952, v. init.
+
+_Créé par_:
+
+  - Décret n°55-658 du 20 mai 1955, v. init.
+
+_Abrogé par_:
+
+  - Décret n°62-235 du 1 mars 1962, v. init.
+
+
+# Titre IV : De l'apprentissage artisanal.<a id=11></a>
+
+###### Article 36
+
+Les chambres de métiers participent dans les conditions fixées par les articles suivants à l'organisation de l'apprentissage
+dans les entreprises dirigées par les personnes visées à l'article 44 du présent code. Cet apprentissage, qui se fait dans
+l'atelier et sous la responsabilité de ces dernières, est complété par l'enseignement des cours professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Cite_:
+
+  - Code de l'artisanat - art. 44 (M)
+
+_Modifié par_:
+
+  - Décret n°55-656 1955-05-20 art. 4 JORF 22 mai 1955
+
 
 ###### Article 37
 
@@ -626,6 +1055,57 @@ _Cité par_:
   - Code de l'enseignement technique - art. 175 (Ab)
 
 
+###### Article 47
+
+Les apprentis occupés chez une des personnes visées à l'article 44 du présent code sont tenus de suivre assidûment, sous la
+responsabilité de celle-ci, les cours professionnels institués dans la localité. Le contrat d'apprentissage doit faire
+mention de cette obligation.
+
+Après accord avec les organisations intéressées, les chambres de métiers peuvent, dans les mêmes conditions que les chambres
+de commerce, créer des écoles de métiers et des cours professionnels pour favoriser la formation des apprentis et le
+perfectionnement des jeunes artisans.
+
+Les programmes de ces écoles et cours sont soumis à l'approbation du ministre chargé de l'enseignement technique.
+
+Tous les apprentis doivent être en possession d'un livret d'assiduité où doivent être portées les absences. Le maître
+d'apprentissage et le représentant légal de l'apprenti doivent signer ce livret chaque mois. Si l'apprenti n'a pas assisté
+aux deux tiers au moins du total des heures de cours obligatoires de la localité, la chambre de métiers peut ajourner son
+admission à l'examen de fin d'apprentissage. Dans ce cas, et s'il y a faute ou négligence du maître d'apprentissage, le
+représentant légal de l'apprenti peut demander des dommages-intérêts au maître d'apprentissage.
+
+La chambre de métiers détermine, après consultation des organisations artisanales intéressées, les cours professionnels dont
+la fréquentation est obligatoire pour les apprentis travaillant dans une localité environnante ou y habitant, en tenant
+compte des facilités de transport existantes.
+
+Dans ce cas, les frais de transport sont remboursés par la chambre de métiers sur la foi du livret d'assiduité, si le
+représentant légal de l'apprenti justifie qu'il ne peut supporter cette dépense.
+
+Pour le cas où l'apprenti n'a pas l'occasion de fréquenter un cours professionnel, la formation théorique doit être assurée
+par les soins du maître d'apprentissage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Cite_:
+
+  - Code de l'artisanat - art. 44 (M)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D424-1 (V)
+
+_Modifié par_:
+
+  - Décret n°55-656 1955-05-20 art. 4 JORF 22 mai 1955
+
+
 ###### Article 48
 
 Après consultation des organisations artisanales intéressées, les chambres de métiers peuvent prendre toutes les mesures
@@ -737,7 +1217,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre V : Du crédit aux artisans.<a id=9></a>
+# Titre V : Du crédit aux artisans.<a id=12></a>
 
 ###### Article 53
 
@@ -804,7 +1284,7 @@ _Cité par_:
   - Code de l'artisanat - art. 66 (Ab)
 
 
-## Chapitre Ier : Crédit artisanal individuel.<a id=10></a>
+## Chapitre Ier : Crédit artisanal individuel.<a id=13></a>
 
 ###### Article 57
 
@@ -1033,7 +1513,7 @@ _Abrogé par_:
   - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
 
 
-## Chapitre II : Crédit aux coopératives.<a id=11></a>
+## Chapitre II : Crédit aux coopératives.<a id=14></a>
 
 ###### Article 64
 
@@ -1280,7 +1760,7 @@ _Abrogé par_:
   - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
 
 
-## Chapitre III : Crédit spécial aux artisans ruraux.<a id=12></a>
+## Chapitre III : Crédit spécial aux artisans ruraux.<a id=15></a>
 
 ###### Article 72
 
@@ -1313,9 +1793,50 @@ _Abrogé par_:
   - Décret n°71-671 1971-08-11 art. 3 JORF 14 août 1971
 
 
-# Titre VI : Des adjudications et des marchés<a id=13></a>
+# Titre VI : Des adjudications et des marchés<a id=16></a>
 
-## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=14></a>
+## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=17></a>
+
+###### Article 74
+
+Tous travaux susceptibles d'être exécutés par des artisans définis à l'article 1er du présent code, faisant l'objet
+d'adjudication et de marchés de gré à gré passés au nom de l'Etat, des départements, des communes et des établissements
+publics de bienfaisance et d'assistance, doivent être réservés de préférence, à égalité de prix, jusqu'à concurrence du quart
+de leur montant, à des artisans à titre individuel ou à des sociétés coopératives artisanales constituées conformément à
+l'article 64 du présent code, pour être distribués par ces coopératives à leurs adhérents artisans.
+
+En ce qui concerne les travaux d'art susceptibles d'être exécutés par des artistes et artisans d'art, ils sont réservés,
+jusqu'à concurrence de la moitié de leur montant, aux sociétés coopératives d'artistes et aux artisans d'art.
+
+Les modalités d'application du présent article, notamment les conditions dans lesquelles s'exerce la préférence visée aux
+deux alinéas précédents, ainsi que les conditions qu'ont à remplir les artisans et les artistes et les sociétés coopératives
+artisanales, pour pouvoir bénéficier de ces dispositions, sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Cite_:
+
+  - Code de l'artisanat - art. 1 (Ab)
+  - Code de l'artisanat - art. 64 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des marchés publics - art. 266 (M)
+  - Code des marchés publics - art. 267 (Ab)
+  - Code des marchés publics - art. 268 (Ab)
+
+_Modifié par_:
+
+  - Décret n°55-656 1955-05-20 art. 4 JORF 22 mai 1955
+
 
 ###### Article 75
 
@@ -1333,7 +1854,69 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VII : De l'assistance aux artisans sans travail.<a id=15></a>
+# Titre VII : De l'assistance aux artisans sans travail.<a id=18></a>
+
+###### Article 76
+
+Les chambres de métiers peuvent créer et gérer des caisses de secours en vue de servir des indemnités à ceux des artisans qui
+sont privés complètement du travail dont ils tiraient leurs moyens d'existence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1601 (M)
+  - Code de l'artisanat - art. 77 (V)
+  - Loi n°75-678 du 29 juillet 1975 - art. 13 (V)
+
+_Modifié par_:
+
+  - Décret n°55-656 1955-05-20 art. 4 JORF 22 mai 1955
+
+
+###### Article 77
+
+Elles peuvent affecter au budget des caisses qu'elles institueraient en application de l'article précédent tout ou partie des
+subventions, dons et legs, qu'elles recevraient en application de l'article 26 du présent code.
+
+Elles peuvent, d'autre part, voter en vue de ce fonctionnement des décimes additionnels spéciaux au principal de la taxe pour
+frais de chambre de métiers, acquittée par les artisans ressortissants à la chambre de métiers.
+
+Les décimes additionnels spéciaux sont votés et recouvrés suivant la procédure prévue à l'article 25 du présent code.
+
+Par ailleurs, elles peuvent, à raison des indemnités versées par ces caisses, recevoir des subventions de l'Etat dans les
+conditions fixées pour l'attribution des subventions aux caisses syndicales ou mutuelles constituées par des travailleurs
+indépendants, en vue de verser une indemnité régulière à ceux d'entre eux qui sont complètement privés du travail dont ils
+tiraient leurs moyens d'existence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Cite_:
+
+  - Code de l'artisanat - art. 26 (M)
+  - Code de l'artisanat - art. 76 (M)
+  - Code de l'artisanat 26, 251, 76
+
+_Modifié par_:
+
+  - Décret n°55-656 1955-05-20 art. 4 JORF 22 mai 1955
+
 
 ###### Article 78
 
@@ -1398,7 +1981,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=16></a>
+# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=19></a>
 
 ###### Article 81
 
@@ -1425,7 +2008,7 @@ _Cite_:
   - Loi n°1917-03-13
 
 
-# Titre IX : Dispositions diverses.<a id=17></a>
+# Titre IX : Dispositions diverses.<a id=20></a>
 
 ###### Article 82
 
