@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1992-09-29
+Version Consolidée au 1992-12-13
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
