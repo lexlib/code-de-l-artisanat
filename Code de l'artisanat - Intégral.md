@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-08-10
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
@@ -101,7 +101,7 @@ _Créé par_:
 Les chambres de métiers sont instituées par décrets pris sur le rapport du ministre chargé de l'artisanat, du ministre du
 travail et du ministre chargé de l'enseignement technique.
 
-Elles sont des établissements publics.
+Elles sont des établissements publics économiques.
 
 Il peut être créé une ou plusieurs chambres de métiers par département. Une chambre de métiers peut se diviser en autant de
 sections qu'elle le juge utile.
@@ -116,7 +116,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-229 du 22 février 1993 - art. 1 () JORF 23 février 1993
+  - Loi n°94-679 du 8 août 1994 - art. 84 (V) JORF 10 août 1994
 
 _Cité par_:
 
