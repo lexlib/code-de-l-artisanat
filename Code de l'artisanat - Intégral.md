@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1956-01-29
+Version Consolidée au 1957-01-11
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 1 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
@@ -15,11 +15,12 @@ Version Consolidée au 1956-01-29
     - [Chapitre Ier : Crédit artisanal individuel. (art. 57 à 63)](#12)
     - [Chapitre II : Crédit aux coopératives. (art. 64 à 71)](#13)
     - [Chapitre III : Crédit spécial aux artisans ruraux. (art. 72)](#14)
-  - [Titre VI : Des adjudications et des marchés (art. 74 à 75)](#15)
-    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#16)
-  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#17)
-  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#18)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#19)
+  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#15)
+    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#16)
+    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#17)
+  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#18)
+  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#19)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#20)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 1
@@ -1819,7 +1820,68 @@ _Abrogé par_:
 
 # Titre VI : Des adjudications et des marchés<a id=15></a>
 
-## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=16></a>
+## Chapitre I : De la dispense de cautionnement.<a id=16></a>
+
+###### Article 73
+
+Dans les marchés passés au nom de l'Etat, des départements, des communes, des établissements publics de bienfaisance, ainsi
+que des établissements reconnus d'utilité publique ayant un caractère hospitalier ou de bienfaisance, les petits artisans,
+remplissant les conditions fixées à l'article 184, paragraphe 2, du code général des impôts, sont dispensés de fournir un
+cautionnement lorsque le montant prévu des travaux et fournitures faisant l'objet du marché ne dépasse pas :
+
+1.500.000 francs (15.000 F) dans les villes de 10.000 habitants et au-dessous ;
+
+2.500.000 francs (25.000 F) dans les villes de 10.001 à 100.000 habitants ;
+
+3.500.000 francs (35.000 F) dans les villes de 100.001 à 200.000 habitants ;
+
+4.000.000 de francs (40.000 F) dans les villes de 200.001 à 300.000 habitants ;
+
+5.000.000 de francs (50.000 F) dans les villes de 300.001 habitants et au-dessus ;
+
+Le maximum est porté à 7.500.000 francs (75.000 F) pour la ville de Paris.
+
+Les maxima prévus au présent article peuvent être modifiés par décret en Conseil d'Etat pris sous le contreseing du ministre
+de l'économie et des finances, du ministre de l'intérieur, du ministre des affaires sociales et du secrétaire d'Etat à la
+santé publique et à la population.
+
+En cas d'adjudication, les artisans doivent produire un certificat délivré par l'inspecteur des contributions directes de
+leur domicile indiquant qu'ils remplissent les conditions fixées à l'article 184, paragraphe 2, susvisé du code général des
+impôts.
+
+Les acomptes sur les ouvrages exécutés ou sur les fournitures livrées sont payés tous les quinze jours aux artisans, sauf les
+retenues prévues par les cahiers des charges. Les artisans sont soumis aux clauses et conditions générales imposées aux
+entrepreneurs de travaux ou fournitures, en tout ce qu'elles n'ont pas de contraire au présent code.
+
+Les conditions dans lesquelles les sociétés coopératives d'artisans peuvent être dispensées de fournir un cautionnement sont
+fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 184
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Cité par_:
+
+  - Arrêté du 4 avril 1984 - art. 87 (V)
+  - Code des marchés publics - art. 143 (M)
+  - Code des marchés publics - art. 334 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des marchés publics - art. 343 (Ab)
+
+
+## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=17></a>
 
 ###### Article 74
 
@@ -1878,7 +1940,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VII : De l'assistance aux artisans sans travail.<a id=17></a>
+# Titre VII : De l'assistance aux artisans sans travail.<a id=18></a>
 
 ###### Article 76
 
@@ -2005,7 +2067,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=18></a>
+# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=19></a>
 
 ###### Article 81
 
@@ -2032,7 +2094,7 @@ _Cite_:
   - Loi n°1917-03-13
 
 
-# Titre IX : Dispositions diverses.<a id=19></a>
+# Titre IX : Dispositions diverses.<a id=20></a>
 
 ###### Article 82
 
