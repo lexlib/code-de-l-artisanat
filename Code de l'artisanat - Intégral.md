@@ -1,24 +1,21 @@
 # Code de l'artisanat  
-Version Consolidée au 2004-11-04
+Version Consolidée au 2005-02-01
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
-  - [Titre II : Des chambres de métiers. (art. 6 à 23)](#2)
+  - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 29)](#2)
     - [Chapitre I : Institution et organisation. (art. 6 à 17)](#3)
     - [Chapitre II : Fonctionnement. (art. 18 à 21)](#4)
     - [Chapitre III : Attributions. (art. 23)](#5)
-  - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 29)](#6)
-    - [Chapitre I : Institution et organisation. (art.  à 5)](#7)
-    - [Chapitre II : Fonctionnement. (art.  à 5)](#8)
-    - [Chapitre III : Attributions. (art.  à 5)](#9)
-    - [Chapitre IV : Ressources. (art. 25 à 26)](#10)
-    - [Chapitre V : Contrôle financier. (art. 28 à 29)](#11)
-  - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#12)
-  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#13)
-    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#14)
-    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#15)
-  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#16)
-  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#17)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#18)
+    - [Chapitre IV : Ressources. (art. 25 à 26)](#6)
+    - [Chapitre V : Contrôle financier. (art. 28 à 29)](#7)
+  - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#8)
+  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#9)
+    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#10)
+    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#11)
+  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#12)
+  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#13)
+  - [Titre VIII bis : Dispositions relatives à l'artisanat à Mayotte (art. 81 bis)](#14)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#15)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 4
@@ -72,7 +69,28 @@ _Cité par_:
   - Décret n°77-892 du 4 août 1977 - art. 1 (Ab)
 
 
-# Titre II : Des chambres de métiers.<a id=2></a>
+# Titre II : Des chambres de métiers et de l'artisanat<a id=2></a>
+
+###### Article 5
+
+Les chambres de métiers et de l'artisanat sont, auprès des pouvoirs publics, les organes représentatifs des intérêts généraux
+de l'artisanat de leur circonscription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Modifié par_:
+
+  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+
+_Cité par_:
+
+  - Code de l'artisanat - art. 81 bis (M)
+  - Code de l'artisanat - art. 82-1 (Ab)
+
 
 ## Chapitre I : Institution et organisation.<a id=3></a>
 
@@ -476,36 +494,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5721-1 (V)
 
 
-# Titre II : Des chambres de métiers et de l'artisanat<a id=6></a>
-
-###### Article 5
-
-Les chambres de métiers et de l'artisanat sont, auprès des pouvoirs publics, les organes représentatifs des intérêts généraux
-de l'artisanat de leur circonscription.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-
-_Modifié par_:
-
-  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
-
-_Cité par_:
-
-  - Code de l'artisanat - art. 81 bis (M)
-  - Code de l'artisanat - art. 82-1 (Ab)
-
-
-## Chapitre I : Institution et organisation.<a id=7></a>
-
-## Chapitre II : Fonctionnement.<a id=8></a>
-
-## Chapitre III : Attributions.<a id=9></a>
-
-## Chapitre IV : Ressources.<a id=10></a>
+## Chapitre IV : Ressources.<a id=6></a>
 
 ###### Article 25
 
@@ -567,7 +556,7 @@ _Cité par_:
   - Code de l'artisanat - art. 81 bis (M)
 
 
-## Chapitre V : Contrôle financier.<a id=11></a>
+## Chapitre V : Contrôle financier.<a id=7></a>
 
 ###### Article 28
 
@@ -636,7 +625,7 @@ _Modifié par_:
   - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 
-# Titre IV : De l'apprentissage artisanal.<a id=12></a>
+# Titre IV : De l'apprentissage artisanal.<a id=8></a>
 
 ###### Article 36
 
@@ -1048,9 +1037,9 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VI : Des adjudications et des marchés<a id=13></a>
+# Titre VI : Des adjudications et des marchés<a id=9></a>
 
-## Chapitre I : De la dispense de cautionnement.<a id=14></a>
+## Chapitre I : De la dispense de cautionnement.<a id=10></a>
 
 ###### Article 73
 
@@ -1107,7 +1096,7 @@ _Nouveaux textes_:
   - Code des marchés publics - art. 343 (Ab)
 
 
-## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=15></a>
+## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=11></a>
 
 ###### Article 74
 
@@ -1166,7 +1155,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VII : De l'assistance aux artisans sans travail.<a id=16></a>
+# Titre VII : De l'assistance aux artisans sans travail.<a id=12></a>
 
 ###### Article 76
 
@@ -1287,7 +1276,7 @@ _Modifié par_:
   - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 
-# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=17></a>
+# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=13></a>
 
 ###### Article 81
 
@@ -1314,7 +1303,28 @@ _Cite_:
   - Loi n°1917-03-13
 
 
-# Titre IX : Dispositions diverses.<a id=18></a>
+# Titre VIII bis : Dispositions relatives à l'artisanat à Mayotte<a id=14></a>
+
+###### Article 81 bis
+
+L'article 5 est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 5 () JORF 22 janvier 2005 en vigueur le 1er février 2005
+
+_Cite_:
+
+  - Code de l'artisanat - art. 5 (M)
+
+
+# Titre IX : Dispositions diverses.<a id=15></a>
 
 ###### Article 82
 
