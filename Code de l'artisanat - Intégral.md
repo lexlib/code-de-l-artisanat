@@ -1,11 +1,11 @@
 # Code de l'artisanat  
-Version Consolidée au 1973-03-28
+Version Consolidée au 1976-03-28
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
     - [Chapitre I : Institution et organisation. (art. 6 à 17)](#3)
-    - [Chapitre II : Fonctionnement. (art. 18 à 21)](#4)
-    - [Chapitre V : Contrôle financier. (art. 29)](#5)
+    - [Chapitre III : Attributions. (art. 23)](#4)
+    - [Chapitre V : Contrôle financier. (art. 28 à 29)](#5)
   - [Titre III : Du registre des métiers. (art. 35 ter)](#6)
   - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#7)
   - [Titre V : Du crédit aux artisans. (art. 53 à 71)](#8)
@@ -230,74 +230,55 @@ _Cité par_:
   - Code de l'artisanat - art. 81 bis (M)
 
 
-## Chapitre II : Fonctionnement.<a id=4></a>
+## Chapitre III : Attributions.<a id=4></a>
 
-###### Article 18
+###### Article 23
 
-Les fonctions des membres des chambres de métiers sont gratuites. Toutefois, peuvent être prévus l'attribution de frais de
-mandat et le remboursement des frais de déplacement et de représentation.
+Les chambres de métiers ont pour attribution :
 
-**Liens relatifs à cet article**
+a) De tenir le répertoire des métiers ;
 
-_Codifié par_:
+b) De délivrer les diplômes d'artisan et de maître artisan ;
 
-  - Décret n°52-849 1952-07-16
+c) D'organiser l'apprentissage dans le secteur des métiers ;
 
-_Créé par_:
+d) De favoriser la promotion professionnelle des chefs d'entreprise et des salariés de ce secteur ;
 
-  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+e) Dans le cadre de la politique de l'aménagement du territoire et conformément aux directives du plan de contribuer, le cas
+échéant, à l'expansion du secteur des métiers et au maintien ou à l'élargissement des débouchés, notamment par l'organisation
+d'expositions ;
 
-_Modifié par_:
+f) D'améliorer la rentabilité des entreprises, la qualité des produits et des services, les techniques et les méthodes de
+production et de commercialisation en favorisant la collaboration entre entreprises et la création de services communs ;
 
-  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+g) De créer des oeuvres d'entraide et d'assistance ou de concourir au fonctionnement de telles oeuvres ;
 
-_Cité par_:
+h) De procéder à toutes études utiles à la solution des problèmes techniques, économiques et sociaux intéressant le secteur
+des métiers ;
 
-  - Arrêté du 12 mai 2011 - art. 1 (V)
-  - Code de la sécurité sociale. - art. D311-1 (V)
+i) D'émettre des voeux ou des avis sur les matières relevant de leur compétence.
 
+Ces attributions s'exercent, conformément à la réglementation propre à chaque matière, sous le contrôle du ministre de
+l'industrie et également, pour les affaires relevant de sa compétence, du ministre de l'éducation nationale.
 
-###### Article 20
+Les chambres de métiers peuvent également prêter leur concours aux organisations professionnelles du secteur des métiers.
 
-Les chambres de métiers se réunissent en assemblée générale au moins deux fois par an. Toutefois, sur proposition du bureau
-ou sur demande d'un tiers des membres, elles sont convoquées pour une assemblée générale extraordinaire par le président ou,
-en cas de refus de celui-ci, par le préfet.
+Les chambres de métiers peuvent être autorisées par le préfet du département dans lequel se trouve leur siège dans les
+domaines relevant de leur compétence à :
 
-Les membres de l'assemblée générale sont convoqués au moins huit jours avant la date de la réunion. La convocation qui est
-adressée au domicile des intéressés indique l'ordre du jour.
+Adhérer à des syndicats mixtes créés en application des articles 152 à 155 du code de l'administration communale ;
 
-Les membres qui, pendant deux sessions successives, se sont abstenus de se rendre aux assemblées générales sans motif reconnu
-légitime sont déclarés démissionnaires par le préfet, après avis de la chambre.
+Participer à des sociétés d'économie mixte et, dans les conditions prévues par la loi du 17 novembre 1943, à des sociétés
+professionnelles ou à des établissements professionnels ;
 
-La démission de membre de la chambre est adressée au préfet. Elle est définitive à partir de son acceptation par le préfet
-ou, à défaut de cette acceptation, un mois après un nouvel envoi de la démission par lettre recommandée avec demande d'avis
-de réception.
-
-Ont entrée aux séances des chambres de métiers avec voix consultative :
-
-Les ministres de l'industrie, de l'éducation nationale et du travail, ou les fonctionnaires délégués par eux à cet effet ;
-
-Le préfet du département ou son représentant ;
-
-L'inspecteur d'académie et l'inspecteur de l'enseignement technique ;
-
-L'inspecteur de l'orientation professionnelle ;
-
-Le directeur départemental du travail et de la main-d'oeuvre de la circonscription de la chambre de métiers.
-
-Les chambres de métiers ne peuvent délibérer que si le nombre des membres présents dépasse la moitié de celui des membres en
-exercice. Les décisions sont prises à la majorité absolue des membres présents. En cas de partage des voix, celle du
-président est prépondérante.
-
-Les chambres de métiers ne peuvent délibérer au sujet des décimes mis à leur disposition par l'article 1603 du Code Général
-des Impôts que si le nombre des membres chefs d'entreprise présents est au moins égal à la moitié du nombre des mêmes membres
-en exercice. En cette matière, ceux-ci ont seuls voix délibérative.
+Souscrire des parts ou des actions de sociétés.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1603
+  - Code de l'administration communale 152, 153, 154, 155
+  - Loi n°1943-11-17
 
 _Codifié par_:
 
@@ -310,61 +291,86 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-  - Décret n°64-1362 du 30 décembre 1964 - art. 7 () JORF 1er janvier 1965
-  - Décret n°68-47 du 13 janvier 1968 - art. 33 () JORF 18 janvier 1968
+  - Décret n°64-1362 du 30 décembre 1964 - art. 9 () JORF 1er janvier 1965
+  - Décret n°68-47 du 13 janvier 1968 - art. 36 () JORF 18 janvier 1968
+  - Décret n°76-274 1976-03-26 art. 1 JORF 28 mars 1976
 
 _Cité par_:
 
+  - Décret n°66-137 du 7 mars 1966 - art. 1 (V)
+  - Décret n°98-247 du 2 avril 1998 - art. 3 (V)
+  - Décret n°98-246 du 2 avril 1998 - art. 1 (VD)
+  - Décret n°98-246 du 2 avril 1998 - art. 2-1 (VD)
+  - Décret n°98-246 du 2 avril 1998 - art. 3 (VD)
+  - Décret n°98-246 du 2 avril 1998 - art. 4-1 (VD)
+  - Décret n°2015-810 du 2 juillet 2015 (V)
+  - Décret n°2017-767 du 4 mai 2017 - art. 2
+  - Décret n°2017-767 du 4 mai 2017 - art. 3
+  - Décret n°2017-767 du 4 mai 2017 - art. 4
+  - Décret n°2017-767 du 4 mai 2017 - art. 5
+  - Décret n°2017-861 du 9 mai 2017 - art. 10
+  - Décret n°2017-861 du 9 mai 2017 - art. 25
+  - Décret n°2017-861 du 9 mai 2017 - art. 35
+  - Décret n°2017-861 du 9 mai 2017 - art. 36
+  - Décret n°2017-861 du 9 mai 2017 - art. 38
+  - Décret n°2017-861 du 9 mai 2017 - art. 6
   - Code de l'artisanat - art. 81 bis (M)
-  - Code de l'artisanat - art. 82-1 (Ab)
-
-
-###### Article 21
-
-Les chambres de métiers désignent, dans leur circonscription, des membres associés répondant aux conditions d'éligibilité
-prévues à l'article 4 à raison d'un par canton, après consultation des organisations syndicales représentatives du secteur
-des métiers du département. Toutefois, lorsque la situation locale le justifie, le préfet peut, pour l'application du présent
-article, réunir plusieurs cantons pour lesquels il ne sera désigné qu'un seul membre associé. Dans les villes divisées en
-arrondissements il est désigné un membre associé pour chacun d'eux.
-
-Les membres associés sont habilités à renseigner et à conseiller les ressortissants de la chambre de métiers et à les
-assister éventuellement dans les formalités qui leur incombent.
-
-A cette fin, la chambre leur donne régulièrement communication de ses délibérations, des décisions de son président, et d'une
-façon générale, leur adresse toute documentation utile à l'exercice de leur mission. Ils sont réunis une fois par an, sur
-convocation du président, pour être informés de l'activité de la chambre et formuler toutes suggestions utiles dans les
-limites de la compétence de celle-ci.
-
-Les membres associés sont désignés pour une période de six ans. Ils sont renouvelables par moitié tous les trois ans à la
-suite des élections triennales aux chambres de métiers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-
-_Créé par_:
-
-  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-_Modifié par_:
-
-  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-  - Décret n°64-1362 du 30 décembre 1964 - art. 8 () JORF 1er janvier 1965
-  - Décret n°68-47 du 13 janvier 1968 - art. 35 () JORF 18 janvier 1968
-
-_Cité par_:
-
-  - Décret n°2006-379 du 27 mars 2006 - art. 30 (V)
-  - Code de l'artisanat - art. 18 (M)
-
-_Cite_:
-
-  - Code de l'artisanat - art. 4 (M)
+  - Code rural et de la pêche maritime - art. D256-1 (V)
 
 
 ## Chapitre V : Contrôle financier.<a id=5></a>
+
+###### Article 28
+
+Le budget et les comptes des chambres de métiers sont établis dans les formes prescrites par le ministre chargé de
+l'artisanat.
+
+Ils doivent faire apparaître dans des sections distinctes les dépenses et les recettes ordinaires et celles qui, par leur
+nature, ne sont pas susceptibles de se reproduire tous les ans.
+
+Le budget est voté par l'assemblée de la chambre de métiers dans le courant du mois d'octobre de chaque année ; il n'est
+exécutoire qu'après approbation du préfet.
+
+En cas de carence de la chambre de métiers, le préfet :
+
+Etablit d'office le budget de la chambre de métiers ;
+
+Procède à l'inscription d'office au budget de la chambre de métiers des dépenses obligatoires omises ;
+
+Ordonnance et mandate d'office les dépenses obligatoires.
+
+Chaque année, au cours de sa première assemblée générale ordinaire, la chambre de métiers adopte le compte de gestion de
+l'exercice précédent.
+
+Dans les six premiers mois de chaque année, le président de la chambre de métiers adresse au préfet, pour approbation
+définitive, le compte de gestion de l'année précédente, accompagné des pièces de comptabilité, ainsi que, le cas échéant, le
+tableau d'amortissement des emprunts contractés par la chambre de métiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+_Modifié par_:
+
+  - Décret n°64-1362 du 30 décembre 1964 - art. 10 () JORF 1er janvier 1965
+  - Décret n°68-47 du 13 janvier 1968 - art. 37 () JORF 18 janvier 1968
+  - Décret n°73-358 1973-03-26 art. 2 JORF 28 mars 1973
+  - Décret n°76-274 1976-03-26 art. 2 JORF 28 mars 1976
+  - Décret n°63-958 1963-09-17 art. 1 JORF 21 septembre 1963
+
+_Cité par_:
+
+  - Décret n°66-137 du 7 mars 1966 - art. 18 (V)
+  - Décret n°2015-1401 du 3 novembre 2015 - art. 23 (V)
+  - Code de l'artisanat - art. 78 (V)
+  - Code de l'artisanat - art. 82-1 (Ab)
+
 
 ###### Article 29
 
