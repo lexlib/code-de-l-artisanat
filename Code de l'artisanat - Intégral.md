@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1976-03-28
+Version Consolidée au 1980-04-15
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
@@ -1055,34 +1055,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
-
-
-###### Article 59
-
-Le produit de l'intérêt versé par les artisans sur les prêts qui leur sont consentis est encaissé par la banque populaire
-pour constituer après couverture des frais une réserve de garantie pour le remboursement de l'avance reçue de la chambre
-syndicale des banques populaires.
-
-Le montant de la réserve sera acquis à la banque lorsque ladite avance aura été intégralement remboursée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-_Cité par_:
-
-  - Décret n°76-502 du 8 juin 1976 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Décret n°80-268 du 10 avril 1980 - art. 2 () JORF 15 avril 1980
 
 
 ###### Article 60
