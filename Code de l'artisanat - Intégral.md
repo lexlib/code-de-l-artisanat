@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1968-01-28
+Version Consolidée au 1971-08-14
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
@@ -10,16 +10,15 @@ Version Consolidée au 1968-01-28
     - [Chapitre V : Contrôle financier. (art. 29)](#7)
   - [Titre III : Du registre des métiers. (art. 35 ter)](#8)
   - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#9)
-  - [Titre V : Du crédit aux artisans. (art. 53 à 72)](#10)
+  - [Titre V : Du crédit aux artisans. (art. 53 à 71)](#10)
     - [Chapitre Ier : Crédit artisanal individuel. (art. 57 à 63)](#11)
     - [Chapitre II : Crédit aux coopératives. (art. 64 à 71)](#12)
-    - [Chapitre III : Crédit spécial aux artisans ruraux. (art. 72)](#13)
-  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#14)
-    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#15)
-    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#16)
-  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#17)
-  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#18)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#19)
+  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#13)
+    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#14)
+    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#15)
+  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#16)
+  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#17)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#18)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 4
@@ -1586,42 +1585,9 @@ _Abrogé par_:
   - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
 
 
-## Chapitre III : Crédit spécial aux artisans ruraux.<a id=13></a>
+# Titre VI : Des adjudications et des marchés<a id=13></a>
 
-###### Article 72
-
-Les caisses de crédit agricole mutuel admettent comme sociétaires, outre les personnes et collectivités énumérées à l'article
-616 du Code rural, les chefs d'entreprises immatriculées au répertoire des métiers, travaillant en milieu rural et consacrant
-la majeure partie de leur activité à la satisfaction des besoins des exploitations, institutions et groupements
-professionnels agricoles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 616
-
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-_Modifié par_:
-
-  - Décret n°68-474 1968-05-28 art. 1, art. 2 JORF 29 mai 1968
-
-_Abrogé par_:
-
-  - Décret n°71-671 1971-08-11 art. 3 JORF 14 août 1971
-
-
-# Titre VI : Des adjudications et des marchés<a id=14></a>
-
-## Chapitre I : De la dispense de cautionnement.<a id=15></a>
+## Chapitre I : De la dispense de cautionnement.<a id=14></a>
 
 ###### Article 73
 
@@ -1682,7 +1648,7 @@ _Nouveaux textes_:
   - Code des marchés publics - art. 343 (Ab)
 
 
-## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=16></a>
+## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=15></a>
 
 ###### Article 74
 
@@ -1741,7 +1707,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VII : De l'assistance aux artisans sans travail.<a id=17></a>
+# Titre VII : De l'assistance aux artisans sans travail.<a id=16></a>
 
 ###### Article 76
 
@@ -1868,7 +1834,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=18></a>
+# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=17></a>
 
 ###### Article 81
 
@@ -1895,7 +1861,7 @@ _Cite_:
   - Loi n°1917-03-13
 
 
-# Titre IX : Dispositions diverses.<a id=19></a>
+# Titre IX : Dispositions diverses.<a id=18></a>
 
 ###### Article 82
 
