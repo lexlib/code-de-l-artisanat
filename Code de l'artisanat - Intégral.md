@@ -1,24 +1,22 @@
 # Code de l'artisanat  
-Version Consolidée au 1972-04-29
+Version Consolidée au 1973-03-28
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
     - [Chapitre I : Institution et organisation. (art. 6 à 17)](#3)
     - [Chapitre II : Fonctionnement. (art. 18 à 21)](#4)
     - [Chapitre V : Contrôle financier. (art. 29)](#5)
-  - [Titre II : Des chambres de métiers et de l'artisanat (art. 22)](#6)
-    - [Chapitre II : Fonctionnement. (art. 22)](#7)
-  - [Titre III : Du registre des métiers. (art. 35 ter)](#8)
-  - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#9)
-  - [Titre V : Du crédit aux artisans. (art. 53 à 71)](#10)
-    - [Chapitre Ier : Crédit artisanal individuel. (art. 55 à 63)](#11)
-    - [Chapitre II : Crédit aux coopératives. (art. 64 à 71)](#12)
-  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#13)
-    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#14)
-    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#15)
-  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#16)
-  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#17)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#18)
+  - [Titre III : Du registre des métiers. (art. 35 ter)](#6)
+  - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#7)
+  - [Titre V : Du crédit aux artisans. (art. 53 à 71)](#8)
+    - [Chapitre Ier : Crédit artisanal individuel. (art. 55 à 63)](#9)
+    - [Chapitre II : Crédit aux coopératives. (art. 64 à 71)](#10)
+  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#11)
+    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#12)
+    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#13)
+  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#14)
+  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#15)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#16)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 4
@@ -385,69 +383,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre II : Des chambres de métiers et de l'artisanat<a id=6></a>
-
-## Chapitre II : Fonctionnement.<a id=7></a>
-
-###### Article 22
-
-Les chambres de métiers établissent, sur proposition du bureau, leur règlement intérieur qui est transmis pour approbation au
-préfet. Celui-ci prend l'avis, en ce qui concerne les dispositions relatives à la formation professionnelle, du comité
-départemental de la formation professionnelle, de la promotion sociale et de l'emploi.
-
-Ce règlement prévoit notamment la création de commissions permanentes. Trois de ces commissions sont obligatoirement créées :
-
-La commission des finances, chargée de l'examen des projets de budgets préparés par le président et les membres du bureau
-ainsi que de la vérification et de l'apurement des comptes dressés par le trésorier ;
-
-La commission des affaires économiques ;
-
-La commission de formation professionnelle, chargée de l'étude de toutes les questions d'apprentissage et de perfectionnement
-professionnel.
-
-Les membres des commissions permanentes sont nommés par l'assemblée générale.
-
-Le président, le trésorier de la chambre de métiers ainsi que les compagnons ne peuvent faire partie de la commission des
-finances. Le président de la chambre de métiers est membre de droit de toutes les autres commissions et peut les présider.
-
-Le règlement intérieur doit également comporter un chapitre particulier concernant l'organisation des services de la chambre
-de métiers. Il fixe notamment le nombre et la nature des emplois permanents.
-
-Les services de la chambre de métiers sont dirigés par un secrétaire général nommé par le président, après accord du bureau,
-et placé sous son autorité.
-
-Le règlement intérieur comporte l'emploi correspondant qui doit être pourvu en permanence dans les conditions prévues au
-statut du personnel des chambres de métiers établi en application de la loi n° 52-1311 du 10 décembre 1952.
-
-En cas de vacance, si le remplacement ne peut être immédiat, un agent est désigné à titre intérimaire par le président de la
-chambre des métiers. La nomination du secrétaire général doit alors intervenir dans le délai d'un an à compter de la vacance
-du poste.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-
-_Créé par_:
-
-  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-_Cite_:
-
-  - Loi n°52-1311 1952-12-10
-
-_Modifié par_:
-
-  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-  - Décret n°62-235 du 1 mars 1962, v. init.
-
-_Abrogé par_:
-
-  - Décret n°73-358 du 26 mars 1973, v. init.
-
-
-# Titre III : Du registre des métiers.<a id=8></a>
+# Titre III : Du registre des métiers.<a id=6></a>
 
 ###### Article 35 ter
 
@@ -488,7 +424,7 @@ _Cite_:
   - Loi n°77-1468 1977-12-30
 
 
-# Titre IV : De l'apprentissage artisanal.<a id=9></a>
+# Titre IV : De l'apprentissage artisanal.<a id=7></a>
 
 ###### Article 36
 
@@ -917,7 +853,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre V : Du crédit aux artisans.<a id=10></a>
+# Titre V : Du crédit aux artisans.<a id=8></a>
 
 ###### Article 53
 
@@ -984,7 +920,7 @@ _Cité par_:
   - Code de l'artisanat - art. 66 (Ab)
 
 
-## Chapitre Ier : Crédit artisanal individuel.<a id=11></a>
+## Chapitre Ier : Crédit artisanal individuel.<a id=9></a>
 
 ###### Article 55
 
@@ -1279,7 +1215,7 @@ _Abrogé par_:
   - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
 
 
-## Chapitre II : Crédit aux coopératives.<a id=12></a>
+## Chapitre II : Crédit aux coopératives.<a id=10></a>
 
 ###### Article 64
 
@@ -1526,9 +1462,9 @@ _Abrogé par_:
   - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
 
 
-# Titre VI : Des adjudications et des marchés<a id=13></a>
+# Titre VI : Des adjudications et des marchés<a id=11></a>
 
-## Chapitre I : De la dispense de cautionnement.<a id=14></a>
+## Chapitre I : De la dispense de cautionnement.<a id=12></a>
 
 ###### Article 73
 
@@ -1589,7 +1525,7 @@ _Nouveaux textes_:
   - Code des marchés publics - art. 343 (Ab)
 
 
-## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=15></a>
+## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=13></a>
 
 ###### Article 74
 
@@ -1648,7 +1584,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VII : De l'assistance aux artisans sans travail.<a id=16></a>
+# Titre VII : De l'assistance aux artisans sans travail.<a id=14></a>
 
 ###### Article 76
 
@@ -1775,7 +1711,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=17></a>
+# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=15></a>
 
 ###### Article 81
 
@@ -1802,7 +1738,7 @@ _Cite_:
   - Loi n°1917-03-13
 
 
-# Titre IX : Dispositions diverses.<a id=18></a>
+# Titre IX : Dispositions diverses.<a id=16></a>
 
 ###### Article 82
 
