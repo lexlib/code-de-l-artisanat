@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1952-07-20
+Version Consolidée au 1954-06-18
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 1 à 4)](#1)
   - [Titre II : Des chambres de métiers. (art. 9 à 29)](#2)
@@ -16,7 +16,7 @@ Version Consolidée au 1952-07-20
     - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 75)](#13)
   - [Titre VII : De l'assistance aux artisans sans travail. (art. 78 à 80)](#14)
   - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#15)
-  - [Titre IX : Dispositions diverses. (art. 82)](#16)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#16)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 1
@@ -1443,5 +1443,84 @@ _Créé par_:
 _Cite_:
 
   - Code de l'artisanat 53 à 71, 73 à 75, 76 à 80
+
+
+###### Article 83
+
+Le présent code se substitue dans les conditions prévues par la loi n° 52-325 du 22 mars 1952 aux dispositions législatives
+suivantes, en tant qu'elles concernaient l'artisanat :
+
+Loi du 27 décembre 1923, portant organisation du crédit aux sociétés coopératives et unions de sociétés coopératives
+d'artisans ainsi qu'aux petits artisans ;
+
+Loi du 26 juillet 1925, portant création de chambres de métiers, modifiée par la loi du 27 mars 1934 et le décret-loi du 2
+mai 1938 ;
+
+Loi du 17 mars 1931, tendant à admettre les petits artisans au bénéfice des prêts à long terme du crédit agricole ;
+
+Loi du 27 mars 1934, instituant un registre spécial pour l'inscription des artisans ;
+
+Loi du 17 janvier 1935, relative aux travaux réservés aux artisans, article 1er ;
+
+Décret-loi du 8 août 1935, tendant à organiser l'assistance aux artisans sans travail ;
+
+Loi du 13 novembre 1936, relative aux premières mesures de réforme des finances départementales et communales ;
+
+Loi du 10 mars 1937, portant organisation de l'apprentissage dans les entreprises artisanales ;
+
+Loi du 31 décembre 1937, modifiant la loi du 28 décembre 1931, tendant à la réalisation immédiate de certains travaux
+relatifs au perfectionnement de l'outillage national, article 66 ;
+
+Loi du 21 mars 1941, portant réorganisation du crédit artisanal ;
+
+Loi du 14 août 1943, relative à l'utilisation du mot "artisan" et de ses dérivés ;
+
+Loi n° 47-520 du 21 mars 1947, relative à diverses dispositions d'ordre financier, article 88 ;
+
+Loi n° 49-286 du 2 mars 1949, fixant la date des élections aux chambres de métiers, article 3 ;
+
+Loi n° 51-638 du 24 mai 1951, relative au développement des dépenses d'investissement pour l'exercice 1951 (investissements
+économiques et sociaux), article 9 ;
+
+Loi n° 53-80 du 7 février 1953, relative au développement des dépenses d'investissement pour l'exercice 1953 (art. 44).
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°54-649 1954-06-11 art. 5 JORF 18 juin 1954
+
+_Cite_:
+
+  - Décret-loi du 8 août 1935
+  - Loi du 10 mars 1937
+  - Loi du 13 novembre 1936
+  - Loi du 14 août 1943
+  - Loi du 17 mars 1931
+  - Loi du 21 mars 1941
+  - Loi du 27 décembre 1923 (V)
+  - Loi du 26 juillet 1925 (V)
+  - Loi du 28 décembre 1931, v. init.
+  - Loi du 27 mars 1934, v. init.
+  - Loi du 17 janvier 1935, v. init.
+  - Décret-loi du 2 mai 1938 (V)
+  - Loi du 31 décembre 1937
+  - Loi n°47-520 du 21 mars 1947 (V)
+  - Loi n°49-286 du 2 mars 1949
+  - Loi n°51-638 du 24 mai 1951, v. init.
+  - Loi n°52-325 du 22 mars 1952, v. init.
+  - Loi n°53-80 du 7 février 1953, v. init.
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°58-346 1958-04-03 (Loi de validation abrogeant les textes énumérés dans le présent article)
 
 
