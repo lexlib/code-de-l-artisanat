@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2004-11-04
+Version Consolidée au 2005-02-01
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 29)](#2)
@@ -14,7 +14,8 @@ Version Consolidée au 2004-11-04
     - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#11)
   - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#12)
   - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#13)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#14)
+  - [Titre VIII bis : Dispositions relatives à l'artisanat à Mayotte (art. 81 bis)](#14)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#15)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 4
@@ -1302,7 +1303,28 @@ _Cite_:
   - Loi n°1917-03-13
 
 
-# Titre IX : Dispositions diverses.<a id=14></a>
+# Titre VIII bis : Dispositions relatives à l'artisanat à Mayotte<a id=14></a>
+
+###### Article 81 bis
+
+L'article 5 est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°52-849 1952-07-16
+
+_Créé par_:
+
+  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 5 () JORF 22 janvier 2005 en vigueur le 1er février 2005
+
+_Cite_:
+
+  - Code de l'artisanat - art. 5 (M)
+
+
+# Titre IX : Dispositions diverses.<a id=15></a>
 
 ###### Article 82
 
