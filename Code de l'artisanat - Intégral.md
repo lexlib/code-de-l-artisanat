@@ -1,19 +1,18 @@
 # Code de l'artisanat  
-Version Consolidée au 1995-05-11
+Version Consolidée au 1996-07-06
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers. (art. 5 à 29)](#2)
     - [Chapitre I : Institution et organisation. (art. 6 à 17)](#3)
     - [Chapitre III : Attributions. (art. 23)](#4)
     - [Chapitre V : Contrôle financier. (art. 28 à 29)](#5)
-  - [Titre III : Du registre des métiers. (art. 35 ter)](#6)
-  - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#7)
-  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#8)
-    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#9)
-    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#10)
-  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#11)
-  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#12)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#13)
+  - [Titre IV : De l'apprentissage artisanal. (art. 36 à 52)](#6)
+  - [Titre VI : Des adjudications et des marchés (art. 73 à 75)](#7)
+    - [Chapitre I : De la dispense de cautionnement. (art. 73)](#8)
+    - [Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans. (art. 74 à 75)](#9)
+  - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#10)
+  - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#11)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#12)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 4
@@ -386,49 +385,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre III : Du registre des métiers.<a id=6></a>
-
-###### Article 35 ter
-
-Toute indication inexacte donnée de mauvaise foi en vue de l'immatriculation ou de l'inscription au registre des métiers est
-punie d'une amende de 25.000 F et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
-
-Les peines prévues à l'alinéa précédent sont prononcées par le tribunal correctionnel du lieu de l'exploitation de
-l'entreprise artisanale, sur réquisition du procureur de la République.
-
-Dans les cas prévus aux alinéas 1er et 2, le jugement ordonne, le cas échéant, l'immatriculation, la radiation, ou la
-rectification des indications inexactes.
-
-Dans le cas prévu à l'alinéa 2, le coupable peut, en outre, être privé par le tribunal correctionnel, pendant un temps qui
-n'excédera pas cinq ans, du droit de vote et d'éligibilité aux chambres de métiers et, éventuellement, aux conseils de
-prud'hommes, aux tribunaux de commerce et aux chambres de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-
-_Cité par_:
-
-  - Ordonnance n°58-1352 du 27 décembre 1958 - art. 3 (Ab)
-  - Loi n°96-603 du 5 juillet 1996 - art. 25 (V)
-
-_Cite_:
-
-  - Loi n°77-1468 1977-12-30
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-_Abrogé par_:
-
-  - Loi n°96-603 du 5 juillet 1996 - art. 25 (V) JORF 6 juillet 1996
-
-
-# Titre IV : De l'apprentissage artisanal.<a id=7></a>
+# Titre IV : De l'apprentissage artisanal.<a id=6></a>
 
 ###### Article 36
 
@@ -857,9 +814,9 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VI : Des adjudications et des marchés<a id=8></a>
+# Titre VI : Des adjudications et des marchés<a id=7></a>
 
-## Chapitre I : De la dispense de cautionnement.<a id=9></a>
+## Chapitre I : De la dispense de cautionnement.<a id=8></a>
 
 ###### Article 73
 
@@ -920,7 +877,7 @@ _Nouveaux textes_:
   - Code des marchés publics - art. 343 (Ab)
 
 
-## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=10></a>
+## Chapitre II : Des travaux réservés aux artisans et aux coopératives d'artisans.<a id=9></a>
 
 ###### Article 74
 
@@ -979,7 +936,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VII : De l'assistance aux artisans sans travail.<a id=11></a>
+# Titre VII : De l'assistance aux artisans sans travail.<a id=10></a>
 
 ###### Article 76
 
@@ -1106,7 +1063,7 @@ _Créé par_:
   - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
 
 
-# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=12></a>
+# Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.<a id=11></a>
 
 ###### Article 81
 
@@ -1133,7 +1090,7 @@ _Cite_:
   - Loi n°1917-03-13
 
 
-# Titre IX : Dispositions diverses.<a id=13></a>
+# Titre IX : Dispositions diverses.<a id=12></a>
 
 ###### Article 82
 
