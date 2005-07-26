@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2005-02-01
+Version Consolidée au 2005-07-27
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 29)](#2)
@@ -948,34 +948,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
-
-
-###### Article 49
-
-Les chambres de métiers peuvent recevoir de leurs ressortissants des versements qui donnent lieu à des exonérations de la
-taxe d'apprentissage dans les conditions prévues par l'article 230 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 230
-
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-
-_Créé par_:
-
-  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-_Cité par_:
-
-  - Décret n°72-283 du 12 avril 1972 - art. 5 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°2005-841 du 26 juillet 2005 - art. 30 () JORF 27 juillet 2005
 
 
 ###### Article 50
