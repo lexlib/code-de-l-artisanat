@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2010-06-14
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 à 4 bis)](#1)
   - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 29)](#2)
@@ -132,23 +132,19 @@ _Cité par_:
 Sont déclarés démissionnaires d'office par le préfet, après avis de l'assemblée générale de la chambre de métiers et de
 l'artisanat, les membres qui cessent au cours de leur mandat de répondre aux conditions d'éligibilité prévues par l'article 5
 du décret n° 2004-896 du 27 août 2004 modifiant le décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres de
-métiers et à leur élection et ceux qui ne relèvent plus, au sein du collège des activités, de la catégorie à laquelle ils
-appartenaient au moment de leur élection.
+métiers et à leur élection et ceux qui ne relèvent plus, de la catégorie à laquelle ils appartenaient au moment de leur
+élection.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-
 _Cite_:
 
-  - Décret n°99-433 du 27 mai 1999 (V)
+  - Décret n°99-433 du 27 mai 1999
   - Décret n°2004-896 du 27 août 2004 - art. 5
 
 _Modifié par_:
 
-  - Décret n°2004-1164 du 2 novembre 2004 - art. 2 () JORF 4 novembre 2004
+  - Décret n°2010-651 du 11 juin 2010 - art. 31
 
 _Cité par_:
 
@@ -261,7 +257,10 @@ assemblée générale extraordinaire est convoquée par le président, le premie
 élire leurs remplaçants. 
 
 IV.-La démission du président, des membres du bureau et des autres membres de la chambre est adressée au préfet par lettre
-recommandée avec accusé de réception ou tout autre moyen permettant d'en attester la réception par son destinataire. 
+recommandée avec accusé de réception ou tout autre moyen permettant d'en attester la réception par son destinataire.
+
+La démission d'un membre de la chambre régionale de métiers et de l'artisanat entraîne sa démission en qualité de membre de
+la chambre de métiers et de l'artisanat au titre de laquelle il a été élu.  
 
 Les membres du bureau qui se sont abstenus, sans motif légitime, d'assister à trois séances consécutives auxquelles ils
 étaient régulièrement convoqués sont déclarés démissionnaires du bureau par le préfet, après avis de l'assemblée générale de
@@ -278,13 +277,9 @@ d'un mois pour élire le remplaçant.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°52-849 1952-07-16
-
 _Cite_:
 
-  - Décret n°64-1362 du 30 décembre 1964 - art. 8 bis (V)
+  - Décret n°64-1362 du 30 décembre 1964 - art. 8 bis
 
 _Cité par_:
 
@@ -294,7 +289,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1164 du 2 novembre 2004 - art. 5 () JORF 4 novembre 2004
+  - Décret n°2010-651 du 11 juin 2010 - art. 31
 
 
 ###### Article 19 bis
