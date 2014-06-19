@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2014-03-07
+Version Consolidée au 2014-06-20
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 bis)](#1)
   - [Titre II : Des       chambres de métiers et de l'artisanat de région (art. 5 à 33)](#2)
@@ -15,7 +15,8 @@ Version Consolidée au 2014-03-07
   - [Titre VII : De l'assistance aux artisans sans travail. (art. 76 à 80)](#12)
   - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer. (art. 81)](#13)
   - [Titre VIII bis : Dispositions relatives à l'artisanat à Mayotte (art. 81 bis)](#14)
-  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#15)
+  - [Titre VIII ter : Dispositions relatives à l'artisanat à Saint-Pierre-et-Miquelon (art. 81 ter)](#15)
+  - [Titre IX : Dispositions diverses. (art. 82 à 83)](#16)
 # Titre I : De l'artisan, du maître artisan et du compagnon.<a id=1></a>
 
 ###### Article 4 bis
@@ -2058,7 +2059,21 @@ _Cite_:
   - Code de l'artisanat - art. 5 (V)
 
 
-# Titre IX : Dispositions diverses.<a id=15></a>
+# Titre VIII ter : Dispositions relatives à l'artisanat à Saint-Pierre-et-Miquelon<a id=15></a>
+
+###### Article 81 ter
+
+Pour l'application du titre II à Saint-Pierre-et-Miquelon, il y a lieu de lire : "chambre d'agriculture, de commerce,
+d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon" au lieu de : "chambre de métiers et de l'artisanat".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 67
+
+
+# Titre IX : Dispositions diverses.<a id=16></a>
 
 ###### Article 82
 
