@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2016-08-07 00:00:01 +0200
+Version Consolidée au 2016-12-31
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 bis)](#1)
   - [Titre II : Des       chambres de métiers et de l'artisanat de région (art. 5 à 33)](#2)
@@ -935,6 +935,11 @@ de l'article 3 bis du décret n° 98-247 du 2 avril 1998 relatif à la qualifica
 
 4° De favoriser la promotion professionnelle des chefs d'entreprise et des salariés de ce secteur ; 
 
+4° bis D'évaluer les conditions d'aptitude professionnelle prévues à l'article L. 3120-2-1 du code des transports par un
+examen. Un comité national comprenant notamment des représentants de l'Etat et des représentants des professionnels
+intervenant dans le secteur du transport public particulier de personnes effectue le bilan de la mise en œuvre de cet examen,
+dans des conditions définies par décret en Conseil d'Etat. Il peut formuler des recommandations ; 
+
 5° Dans le cadre de la politique de l'aménagement du territoire et conformément aux directives du plan de contribuer, le cas
 échéant, à l'expansion du secteur des métiers et au maintien ou à l'élargissement des débouchés, notamment par l'organisation
 d'expositions ; 
@@ -1030,13 +1035,15 @@ _Cite_:
   - Loi n°96-603 du 5 juillet 1996 - art. 16
   - Décret n°97-558 du 29 mai 1997
   - Décret n°98-246 du 2 avril 1998
+  - Décret n°98-247 du 2 avril 1998 - art. 3 bis (V)
   - Décret n°2004-1165 du 2 novembre 2004
   - Loi n°2010-853 du 23 juillet 2010 - art. 32
-  - Code général des collectivités territoriales - art. L4251-1
   - Code général des collectivités territoriales - art. L5721-1
-  - Code de l'éducation - art. L214-13
+  - Code de l'éducation - art. L214-13 (V)
   - Code de l'éducation - art. L443-1
   - Code de l'éducation - art. L753-1
+  - Code de l'urbanisme - art. L132-7 (V)
+  - Code des transports - art. L3120-2-1
 
 _Cité par_:
 
@@ -1062,7 +1069,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 10 (V)
+  - Loi n°2016-1920 du 29 décembre 2016 - art. 10
 
 
 ###### Article 23-1
