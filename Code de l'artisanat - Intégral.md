@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2019-02-01
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 bis)](#1)
   - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 33)](#2)
@@ -66,14 +66,14 @@ _Cité par_:
 
 ###### Article 5-1
 
-Le réseau des chambres de métiers et de l'artisanat se compose de l'assemblée permanente des chambres de métiers et de
-l'artisanat, des chambres de métiers et de l'artisanat de région, ainsi que des chambres régionales de métiers et de
-l'artisanat et des chambres de métiers et de l'artisanat départementales et interdépartementales, qui sont des établissements
-publics placés sous la tutelle de l'Etat et administrés par des dirigeants et collaborateurs d'entreprise élus. 
+Le réseau des chambres de métiers et de l'artisanat se compose de CMA France, des chambres de métiers et de l'artisanat de
+région, ainsi que des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat
+départementales et interdépartementales, qui sont des établissements publics placés sous la tutelle de l'Etat et administrés
+par des dirigeants et collaborateurs d'entreprise élus.
 
 Le réseau des chambres de métiers et de l'artisanat contribue au développement économique des entreprises immatriculées au
 répertoire des métiers ainsi qu'au développement des territoires, en remplissant en faveur des acteurs économiques et en
-partenariat avec les structures existantes toute mission d'intérêt général en faveur du secteur de l'artisanat. 
+partenariat avec les structures existantes toute mission d'intérêt général en faveur du secteur de l'artisanat.
 
 Sont associées au réseau, dans des conditions fixées par décret en Conseil d'Etat, les chambres de métiers régies par les
 articles 103 et suivants du code professionnel local maintenu en vigueur par la loi du 1er juin 1924 mettant en vigueur la
@@ -88,14 +88,14 @@ _Cite_:
 _Cité par_:
 
   - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
-  - Code de l'artisanat - art. 5-7 (M)
+  - Code de l'artisanat - art. 5-7 (V)
   - Code de la sécurité sociale. - art. D311-1 (V)
   - Code du travail - art. L5143-1 (V)
   - Code du travail - art. L6323-29 (VD)
 
 _Modifié par_:
 
-  - Loi n°2016-298 du 14 mars 2016 - art. 3
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 
 ###### Article 5-2
@@ -250,9 +250,8 @@ _Créé par_:
 
 ###### Article 5-7
 
-L'assemblée permanente des chambres de métiers et de l'artisanat est l'établissement public, placé à la tête du réseau défini
-à l'article 5-1, habilité à représenter les intérêts des métiers et de l'artisanat auprès de l'Etat, de l'Union européenne
-ainsi qu'au plan international. 
+CMA France est l'établissement public, placé à la tête du réseau défini à l'article 5-1, habilité à représenter les intérêts
+des métiers et de l'artisanat auprès de l'Etat, de l'Union européenne ainsi qu'au plan international.
 
 Son organe délibérant est constitué des présidents en exercice des chambres de métiers et de l'artisanat de région et des
 chambres régionales de métiers et de l'artisanat, de ceux des chambres de métiers et de l'artisanat départementales et des
@@ -262,31 +261,31 @@ présidents des délégations départementales constituées en application des I
 
 _Modifié par_:
 
-  - Loi n°2016-298 du 14 mars 2016 - art. 3
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'artisanat - art. 5-1 (M)
-  - Code de l'artisanat - art. 5-2 (V)
+  - Code de l'artisanat - art. 5-1 (V)
+  - Code de l'artisanat - art. 5-2
 
 
 ###### Article 5-8
 
-L'assemblée permanente des chambres de métiers et de l'artisanat assure l'animation de l'ensemble du réseau des chambres de
-métiers et de l'artisanat. Elle veille au bon fonctionnement du réseau. 
+CMA France assure l'animation de l'ensemble du réseau des chambres de métiers et de l'artisanat. Elle veille au bon
+fonctionnement du réseau.
 
-A ce titre : 
+A ce titre :
 
-1° Elle élabore la stratégie nationale du réseau des chambres de métiers et de l'artisanat ; 
+1° Elle élabore la stratégie nationale du réseau des chambres de métiers et de l'artisanat ;
 
-2° Elle définit des normes d'intervention pour les établissements membres du réseau et s'assure du respect de ces normes ; 
+2° Elle définit des normes d'intervention pour les établissements membres du réseau et s'assure du respect de ces normes ;
 
 3° Elle gère les projets nationaux du réseau et elle peut en confier la maîtrise d'ouvrage à un autre établissement du
-réseau ; 
+réseau ;
 
 4° Elle définit et suit la mise en œuvre de la politique générale du réseau en matière de gestion des personnels des
 chambres, négocie et signe les accords nationaux en matière sociale applicables aux personnels des chambres qui sont soumis à
-un agrément prévu par décret en Conseil d'Etat s'ils ont un impact sur les rémunérations ; 
+un agrément prévu par décret en Conseil d'Etat s'ils ont un impact sur les rémunérations ;
 
 5° Elle décide en assemblée générale des marchés ou accords-cadres relatifs aux achats de fournitures ou de prestations de
 services qu'elle passe au nom et pour le compte des établissements du réseau des chambres de métiers et de l'artisanat. Ces
@@ -299,7 +298,7 @@ réseau des chambres de métiers et de l'artisanat. Ce fonds est destiné à fou
 une ressource collective pour la mise en œuvre des mutualisations et restructurations obligatoires ou décidées par son
 assemblée générale. Le fonds est alimenté par une contribution obligatoire de chaque établissement du réseau des chambres de
 métiers et de l'artisanat. Le montant global annuel de la dotation et son affectation sont définis chaque année par
-l'assemblée générale de l'Assemblée permanente des chambres de métiers et de l'artisanat.
+l'assemblée générale de CMA France.
 
 **Liens relatifs à cet article**
 
@@ -314,50 +313,48 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-891 du 8 août 2014 - art. 9
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 
 ###### Article 5-8-1
 
-Le  président de l'assemblée permanente des chambres de métiers et de  l'artisanat transmet pour approbation au ministre
-chargé de l'artisanat,  en application des dispositions de l'article 10 du décret n° 66-137 du 7 mars 1966 relatif  à
-l'assemblée permanente des chambres de métiers et de l'artisanat, les  délibérations relatives au fonds de financement et
-d'accompagnement du  réseau des chambres de métiers et de l'artisanat. 
+Le président de CMA France transmet pour approbation au ministre chargé de l'artisanat, en application des dispositions de
+l'article 10 du décret n° 66-137 du 7 mars 1966 relatif à CMA France, les délibérations relatives au fonds de financement et
+d'accompagnement du réseau des chambres de métiers et de l'artisanat.
 
-La gestion du fonds de financement et d'accompagnement du réseau des  chambres de métiers et de l'artisanat fait l'objet d'un
-compte séparé au  sein du budget primitif, du budget rectificatif et du compte de gestion  de l'assemblée permanente des
-chambres de métiers et de l'artisanat. 
+La gestion du fonds de financement et d'accompagnement du réseau des chambres de métiers et de l'artisanat fait l'objet d'un
+compte séparé au sein du budget primitif, du budget rectificatif et du compte de gestion de CMA France.
 
-Ce compte séparé doit être présenté à l'équilibre, dans le respect des  principes comptables définis par le référentiel
-comptable du réseau des  chambres de métiers et de l'artisanat fixé par arrêté. Les engagements  pris en dépense au titre du
-fonds de financement et d'accompagnement ne  peuvent dépasser les ressources à disposition de ce fonds. Le compte  séparé est
-accompagné d'un état comportant les renseignements financiers  permettant de suivre son fonctionnement, la réalisation des
-actions  programmées et l'emploi des fonds collectés, transmis au ministre de  tutelle dans les mêmes conditions que le
-budget ou le compte de gestion  de l'assemblée permanente des chambres de métiers et de l'artisanat. 
+Ce compte séparé doit être présenté à l'équilibre, dans le respect des principes comptables définis par le référentiel
+comptable du réseau des chambres de métiers et de l'artisanat fixé par arrêté. Les engagements pris en dépense au titre du
+fonds de financement et d'accompagnement ne peuvent dépasser les ressources à disposition de ce fonds. Le compte séparé est
+accompagné d'un état comportant les renseignements financiers permettant de suivre son fonctionnement, la réalisation des
+actions programmées et l'emploi des fonds collectés, transmis au ministre de tutelle dans les mêmes conditions que le budget
+ou le compte de gestion de CMA France .
 
-Les ressources du fonds figurant dans ce compte assurent : 
+Les ressources du fonds figurant dans ce compte assurent :
 
 - en priorité l'acquittement du prélèvement au profit du budget général de l'Etat prévu au cinquième alinéa de l'article 1601
-du code général des impôts recouvré  par le service de contrôle budgétaire et comptable des ministères  économiques et
-financiers ; l'assemblée permanente des chambres de  métiers et de l'artisanat constitue, au titre de chaque année, une
-provision sur les ressources du fonds pour assurer ce prélèvement,  correspondant à la différence entre la somme des
-ressources fiscales  perçues au titre du droit fixe et du droit additionnel à la cotisation  foncière des entreprises du
-réseau et le premier sous-plafond mentionné  au quatrième alinéa de l'article 1601 du code général des impôts, à partir des
-données disponibles les plus récentes concernant ces ressources et ce sous-plafond ; 
+du code général des impôts recouvré par le service de contrôle budgétaire et comptable des ministères économiques et
+financiers ; CMA France constitue, au titre de chaque année, une provision sur les ressources du fonds pour assurer ce
+prélèvement, correspondant à la différence entre la somme des ressources fiscales perçues au titre du droit fixe et du droit
+additionnel à la cotisation foncière des entreprises du réseau et le premier sous-plafond mentionné au quatrième alinéa de
+l'article 1601 du code général des impôts, à partir des données disponibles les plus récentes concernant ces ressources et ce
+sous-plafond ;
 
-- les  actions de mutualisation et restructurations en faveur du réseau, en  application des dispositions du 6° de l'article
-5-8, pour les ressources  disponibles après prélèvement hors provisions.
+- les actions de mutualisation et restructurations en faveur du réseau, en application des dispositions du 6° de l'article
+5-8, pour les ressources disponibles après prélèvement hors provisions.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°66-137 du 7 mars 1966 - art. 10
-  - Code général des impôts, CGI. - art. 1601
+  - Décret n°66-137 du 7 mars 1966 - art. 10 (V)
+  - Code général des impôts, CGI. - art. 1601 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1499 du 11 décembre 2014 - art. 2
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 
 ###### Article 6
@@ -1164,8 +1161,7 @@ autorisées par le préfet de région.
 
 II. - Les chambres régionales de métiers et de l'artisanat exercent, pour leur propre compte et celui des chambres de métiers
 et de l'artisanat départementales et interdépartementales qui leur sont rattachées, les fonctions suivantes, dans le respect
-des prérogatives de l'assemblée permanente des chambres de métiers et de l'artisanat fixées par le décret n° 66-137 du 7 mars
-1966modifié :
+des prérogatives de CMA Franc fixées par le décret n° 66-137 du 7 mars 1966modifié :
 
 1° Elles réalisent et mettent en œuvre les actions de communication du réseau régional, sans préjudice des actions
 événementielles locales spécifiques aux chambres de métiers et de l'artisanat départementales et interdépartementales qui
@@ -1203,8 +1199,8 @@ l'artisanat départementales et interdépartementales qui leur sont rattachées 
 
 _Cite_:
 
-  - Décret n°66-137 du 7 mars 1966 (M)
-  - Décret n°2016-360 du 25 mars 2016 - art. 34 (V)
+  - Décret n°66-137 du 7 mars 1966
+  - Décret n°2016-360 du 25 mars 2016 - art. 34
 
 _Cité par_:
 
@@ -1222,7 +1218,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-343 du 16 mars 2017 - art. 15
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 
 ###### Article 23-2
@@ -1273,11 +1269,11 @@ _Cite_:
 ###### Article 24
 
 Les chambres des métiers et de l'artisanat organisent les sessions d'examen dans le cadre d'un calendrier national fixé par
-l'assemblée permanente des chambres de métiers et de l'artisanat. Les chambres régionales de métiers et de l'artisanat
-assurent la coordination des examens au niveau régional et perçoivent les droits d'inscriptions mentionnés à l'article 24-1.
+CMA France. Les chambres régionales de métiers et de l'artisanat assurent la coordination des examens au niveau régional et
+perçoivent les droits d'inscriptions mentionnés à l'article 24-1.
 
 L'organisation des examens respecte les règles de confidentialité, d'impartialité et de déport fixées dans un règlement
-d'examen approuvé par l'assemblée permanente des chambres de métiers et de l'artisanat.
+d'examen approuvé par CMA France.
 
 **Liens relatifs à cet article**
 
@@ -1291,15 +1287,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-483 du 6 avril 2017 - art. 10
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 
 ###### Article 24-1
 
 L'inscription aux sessions de l'examen est subordonnée au paiement par le candidat de droits d'inscription. Par dérogation au
 second alinéa du II de l'article 26, le montant de ces droits est fixé pour l'ensemble du territoire par arrêté conjoint des
-ministres chargés respectivement des finances, des transports et de l'artisanat, pris après avis de l'assemblée permanente
-des chambres de métiers et de l'artisanat.
+ministres chargés respectivement des finances, des transports et de l'artisanat, pris après avis de CMA France.
 
 Ces droits couvrent les coûts supportés au titre de l'inscription, de l'organisation de la session et de la délivrance de
 l'attestation.
@@ -1308,13 +1303,13 @@ Ils sont acquittés préalablement à l'inscription à l'examen.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2017-483 du 6 avril 2017 - art. 10
-
 _Cité par_:
 
   - Arrêté du 11 août 2017 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 
 ###### Article 24-2
@@ -1720,8 +1715,7 @@ assorti de ses annexes, ou un rapport exposant les motifs l'ayant conduite à en
 
 Les chambres de métiers et de l'artisanat de région rendent publics sur leur site internet, dans le mois qui suit
 l'approbation de ces documents par le préfet de région, leur compte de gestion assorti de ses annexes ainsi que le rapport du
-commissaire aux comptes. Elles transmettent ces documents, dans le même délai, à l'Assemblée permanente des chambres de
-métiers et de l'artisanat.
+commissaire aux comptes. Elles transmettent ces documents, dans le même délai, à CMA France.
 
 **Liens relatifs à cet article**
 
@@ -1731,7 +1725,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-343 du 16 mars 2017 - art. 23
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 _Cite_:
 
@@ -2274,12 +2268,9 @@ _Créé par_:
 
 Les conditions d'admission aux examens du brevet de maîtrise et des autres titres homologués de formation communs aux
 chambres de métiers et de l'artisanat de région, les modalités et la procédure de ces examens, ainsi que la composition des
-commissions d'examen sont déterminées par des règlements d'examen établis par l'assemblée permanente des chambres de métiers
-et de l'artisanat de région, après avis des organisations artisanales syndicales, et approuvés par le ministre chargé de
-l'artisanat. 
-
-Conformément aux dispositions de l'article 1026 du code général des impôts, les certificats et brevets de maîtrise sont
-exempts de tout droit de timbre.
+commissions d'examen sont déterminées par des règlements d'examen établis par CMA France, après avis des organisations
+artisanales syndicales, et approuvés par le ministre chargé de l'artisanat. Conformément aux dispositions de l'article 1026
+du code général des impôts, les certificats et brevets de maîtrise sont exempts de tout droit de timbre.
 
 **Liens relatifs à cet article**
 
@@ -2295,11 +2286,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2019-56 du 30 janvier 2019 - art. 1
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L111-3 (V)
+  - Code du cinéma et de l'image animée - art. L111-3
 
 
 ###### Article 52
