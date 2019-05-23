@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2019-02-01
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 bis)](#1)
   - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 33)](#2)
@@ -69,11 +69,16 @@ _Cité par_:
 Le réseau des chambres de métiers et de l'artisanat se compose de CMA France, des chambres de métiers et de l'artisanat de
 région, ainsi que des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat
 départementales et interdépartementales, qui sont des établissements publics placés sous la tutelle de l'Etat et administrés
-par des dirigeants et collaborateurs d'entreprise élus.
+par des dirigeants et collaborateurs d'entreprise élus. 
 
 Le réseau des chambres de métiers et de l'artisanat contribue au développement économique des entreprises immatriculées au
 répertoire des métiers ainsi qu'au développement des territoires, en remplissant en faveur des acteurs économiques et en
-partenariat avec les structures existantes toute mission d'intérêt général en faveur du secteur de l'artisanat.
+partenariat avec les structures existantes toute mission d'intérêt général en faveur du secteur de l'artisanat. Au niveau de
+la circonscription régionale, son action est complémentaire de celle de la région et compatible avec le schéma régional de
+développement économique, d'innovation et d'internationalisation mentionné à l'article L. 4251-13 du code général des
+collectivités territoriales. La compatibilité de cette stratégie avec le schéma régional de développement économique,
+d'innovation et d'internationalisation est garantie par la signature de conventions entre les régions et les chambres de
+métiers et de l'artisanat de niveau régional prévues à l'article L. 4251-18 du même code. 
 
 Sont associées au réseau, dans des conditions fixées par décret en Conseil d'Etat, les chambres de métiers régies par les
 articles 103 et suivants du code professionnel local maintenu en vigueur par la loi du 1er juin 1924 mettant en vigueur la
@@ -84,18 +89,19 @@ législation civile française dans les départements du Bas-Rhin, du Haut-Rhin 
 _Cite_:
 
   - Loi du 1 juin 1924
+  - Code général des collectivités territoriales - art. L4251-13 (V)
+  - Code général des collectivités territoriales - art. L4251-18 (V)
 
 _Cité par_:
 
   - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
-  - Code de l'artisanat - art. 5-7 (V)
   - Code de la sécurité sociale. - art. D311-1 (V)
   - Code du travail - art. L5143-1 (V)
   - Code du travail - art. L6323-29 (VD)
 
 _Modifié par_:
 
-  - Décret n°2019-56 du 30 janvier 2019 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 53
 
 
 ###### Article 5-2
@@ -1180,9 +1186,9 @@ d'expositions ;
 6° D'améliorer la rentabilité des entreprises, la qualité des produits et des services, les techniques et les méthodes de
 production et de commercialisation en favorisant la collaboration entre entreprises et la création de services communs ;
 
-7° De créer des oeuvres d'entraide et d'assistance ou de concourir au fonctionnement de telles oeuvres ;
+7° De créer des œuvres d'entraide et d'assistance ou de concourir au fonctionnement de telles œuvres ;
 
-8° De procéder à toutes études utiles intéressant le secteur des métiers et d'émettre des voeux ou des avis sur les matières
+8° De procéder à toutes études utiles intéressant le secteur des métiers et d'émettre des vœux ou des avis sur les matières
 relevant de leur compétence ;
 
 9° De participer à la prévention et au traitement des difficultés des entreprises artisanales, en liaison avec les services
@@ -1197,6 +1203,9 @@ fixer, dans le respect des dispositions de la sixième partie du code du travail
 formation en faveur des chefs d'entreprise exerçant une activité artisanale, de leurs conjoints collaborateurs ou associés et
 de leurs auxiliaires familiaux dans le seul domaine de la gestion et du développement des entreprises, et d'assurer le
 traitement des demandes de financement de ces actions ;
+
+11° bis D'établir, après chaque renouvellement général, avec les chambres de commerce et d'industrie de région, un plan des
+actions ayant vocation à être mutualisées dans l'intérêt des entreprises de leur ressort ;
 
 12° De participer au développement de la formation professionnelle initiale ou continue. A ce titre, chaque établissement du
 réseau peut, seul ou en collaboration avec d'autres partenaires, créer et gérer des établissements de formation
@@ -1295,7 +1304,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-861 du 9 mai 2017 - art. 38
+  - Loi n°2019-486 du 22 mai 2019 - art. 43
 
 
 ###### Article 23-1
