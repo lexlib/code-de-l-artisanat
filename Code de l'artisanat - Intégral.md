@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2019-09-28
+Version Consolidée au 2019-12-27
 ## Contenu: 
   - [Titre I : De l'artisan, du maître artisan et du compagnon. (art. 4 bis)](#1)
   - [Titre II : Des chambres de métiers et de l'artisanat (art. 5 à 33)](#2)
@@ -1175,9 +1175,14 @@ conclure avec la région la convention de création et de financement des centre
 4° De favoriser la promotion professionnelle des chefs d'entreprise et des salariés de ce secteur ;
 
 4° bis D'évaluer les conditions d'aptitude professionnelle prévues à l'article L. 3120-2-1 du code des transports par un
-examen. Un comité national comprenant notamment des représentants de l'Etat et des représentants des professionnels
-intervenant dans le secteur du transport public particulier de personnes effectue le bilan de la mise en œuvre de cet examen,
-dans des conditions définies par décret en Conseil d'Etat. Il peut formuler des recommandations ;
+examen. A ce titre, elles peuvent confier l'organisation des sessions d'examen à des personnes agréées à cette fin par
+l'autorité administrative, dans des conditions fixées par décret en Conseil d'Etat. Ces personnes présentent des garanties
+d'honorabilité, de capacité d'organisation, d'impartialité et d'indépendance. Un décret en Conseil d'Etat réglemente, après
+consultation de l'Autorité de la concurrence, le prix que les personnes agréées peuvent percevoir lorsqu'elles organisent
+l'organisation des sessions d'examen. Un comité national comprenant notamment des représentants de l'Etat et des
+représentants des professionnels intervenant dans le secteur du transport public particulier de personnes effectue le bilan
+de la mise en œuvre de cet examen, dans des conditions définies par décret en Conseil d'Etat. Il peut formuler des
+recommandations ;
 
 5° Dans le cadre de la politique de l'aménagement du territoire et conformément aux directives du plan de contribuer, le cas
 échéant, à l'expansion du secteur des métiers et au maintien ou à l'élargissement des débouchés, notamment par l'organisation
@@ -1277,7 +1282,7 @@ _Cite_:
   - Code de l'éducation - art. L214-13
   - Code de l'éducation - art. L443-1
   - Code de l'éducation - art. L753-1
-  - Code de l'urbanisme - art. L132-7
+  - Code de l'urbanisme - art. L132-7 (V)
   - Code des transports - art. L3120-2-1
 
 _Cité par_:
@@ -1304,7 +1309,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-987 du 25 septembre 2019 - art. 62
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 45 (V)
 
 
 ###### Article 23-1
